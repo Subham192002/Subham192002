@@ -25,8 +25,8 @@
 - Master Distributed Systems & Cloud Architecture
 
 📫 Reach Me:
-- Email: your-email@example.com
-- LinkedIn: www.linkedin.com/in/your-linkedin
+- Email: subham19200212345@gmail.com
+- LinkedIn: www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/subham-kumar-mishra-a194a2311/
 
 ---
 
@@ -56,35 +56,9 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Subham192002&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subham192002&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Subham192002&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Subham192002&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -118,49 +92,7 @@ Collection of Data Structures and Algorithms problems and solutions.
 🔗 Repository:
 https://github.com/Subham192002/DSA
 
----
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subham192002&theme=tokyo-night"/>
-</p>
-
----
-
-## 💻 Coding Profiles
-
-<p align="left">
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
 
 ## ⚡ Fun Fact
 
